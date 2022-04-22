@@ -1,0 +1,15 @@
+{
+  "name": "web-scraping-pitchfork",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carolina de Moraes <carolina.moraesjosephik@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^13.6.0"
+  }
+}
